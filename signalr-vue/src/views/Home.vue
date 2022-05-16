@@ -44,8 +44,8 @@ public status: string = 'Chưa login';
   public listMessage: any = [];
  
   public  connection = new signalR.HubConnectionBuilder()
-  .withUrl('https://localhost:5001/signalr')
-    //.withUrl('https://localhost:5009/hubs')
+ // .withUrl('https://localhost:5001/signalr')
+   .withUrl('https://signalv4.cloudlms.top/hubs/authen')
     .build();
   public mounted() {
     this.connection.on('ReceiveMessage', (user: string, data: string) => {
