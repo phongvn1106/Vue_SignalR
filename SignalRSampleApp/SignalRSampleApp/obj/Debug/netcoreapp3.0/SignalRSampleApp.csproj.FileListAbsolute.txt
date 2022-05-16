@@ -1,0 +1,10 @@
+C:\Develop\Clone\SignalRVueChatApp\SignalRSampleApp\SignalRSampleApp\obj\Debug\netcoreapp3.0\SignalRSampleApp.csproj.AssemblyReference.cache
+C:\Develop\Clone\SignalRVueChatApp\SignalRSampleApp\SignalRSampleApp\obj\Debug\netcoreapp3.0\SignalRSampleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\Clone\SignalRVueChatApp\SignalRSampleApp\SignalRSampleApp\obj\Debug\netcoreapp3.0\SignalRSampleApp.AssemblyInfoInputs.cache
+C:\Develop\Clone\SignalRVueChatApp\SignalRSampleApp\SignalRSampleApp\obj\Debug\netcoreapp3.0\SignalRSampleApp.AssemblyInfo.cs
+C:\Develop\Clone\SignalRVueChatApp\SignalRSampleApp\SignalRSampleApp\obj\Debug\netcoreapp3.0\SignalRSampleApp.csproj.CoreCompileInputs.cache
+C:\Develop\Clone\SignalRVueChatApp\SignalRSampleApp\SignalRSampleApp\obj\Debug\netcoreapp3.0\SignalRSampleApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Develop\Clone\SignalRVueChatApp\SignalRSampleApp\SignalRSampleApp\obj\Debug\netcoreapp3.0\SignalRSampleApp.TagHelpers.input.cache
+C:\Develop\Clone\SignalRVueChatApp\SignalRSampleApp\SignalRSampleApp\obj\Debug\netcoreapp3.0\SignalRSampleApp.TagHelpers.output.cache
+C:\Develop\Clone\SignalRVueChatApp\SignalRSampleApp\SignalRSampleApp\obj\Debug\netcoreapp3.0\SignalRSampleApp.dll
+C:\Develop\Clone\SignalRVueChatApp\SignalRSampleApp\SignalRSampleApp\obj\Debug\netcoreapp3.0\SignalRSampleApp.pdb
